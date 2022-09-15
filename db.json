@@ -1,19 +1,332 @@
 {
+"somedata":{
   "programing": [
     {
       "id": 1,
       "title": "Pyhton-разработка",
-      "author": "typicode"
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-python/",
+      "programming": true
+    },
+    {
+      "id": 2,
+      "title": "Web-разработка",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-python/",
+      "programming": true
+    },
+    {
+      "id": 3,
+      "title": "Pyhton-разработка",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-python/",
+      "programming": true
+    },
+    {
+      "id": 4,
+      "title": "Pyhton-разработка",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-python/",
+      "programming": true
+    },
+    {
+      "id": 5,
+      "title": "Pyhton-разработка",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-python/",
+      "programming": true
     }
   ],
-  "comments": [
+  "design": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Профессия графический дизайнер",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/graphic-design/",
+      "design": true
+    },
+    {
+      "id": 2,
+      "title": "Профессия графический дизайнер",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/graphic-design/",
+      "design": true
+    },
+    {
+      "id": 3,
+      "title": "Профессия графический дизайнер",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/graphic-design/",
+      "design": true
+    },
+    {
+      "id": 4,
+      "title": "Профессия графический дизайнер",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/graphic-design/",
+      "design": true
+    },
+    {
+      "id": 5,
+      "title": "Профессия графический дизайнер",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/graphic-design/",
+      "design": true
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data":[
+    {
+      "id": 1,
+      "title": "Профессия Data analysis",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-data-scientist/",
+      "data": true
+    },
+    {
+      "id": 2,
+      "title": "Профессия Data analysis",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-data-scientist/",
+      "data": true
+    },
+    {
+      "id": 3,
+      "title": "Профессия Data analysis",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-data-scientist/",
+      "data": true
+    },
+    {
+      "id": 4,
+      "title": "Профессия Data analysis",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-data-scientist/",
+      "data": true
+    },
+    {
+      "id": 5,
+      "title": "Профессия Data analysis",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-data-scientist/",
+      "data": true
+    }
+  ],
+  "marketing specialist":[
+    {
+      "id": 1,
+      "title": "Профессия Маркетолог",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
+      "marketing specialist": true
+    },
+    {
+      "id": 2,
+      "title": "Профессия Маркетолог",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
+      "marketing specialist": true
+    },
+    {
+      "id": 3,
+      "title": "Профессия Маркетолог",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
+      "marketing specialist": true
+    },
+    {
+      "id": 4,
+      "title": "Профессия Маркетолог",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
+      "marketing specialist": true
+    },
+    {
+      "id": 5,
+      "title": "Профессия Маркетолог",
+      "author": "Skillbox",
+      "stars": 4.5,
+      "cost":"68 990 тг",
+      "time":"в любое время",
+      "revie":[{
+        "term": "3 месяца",
+        "level": "Начальный",
+        "internship":"стажировка",
+        "diplom":"Диплом"
+      }],
+      "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
+      "marketing specialist": true
+    }
+  ]
+}
 }
