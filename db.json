@@ -1,0 +1,19 @@
+{
+  "programing": [
+    {
+      "id": 1,
+      "title": "Pyhton-разработка",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
