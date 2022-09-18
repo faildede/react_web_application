@@ -1,6 +1,6 @@
 {
-"somedata":{
-  "programing": [
+"somedata":[
+{  "programing": [
     {
       "id": 1,
       "title": "Pyhton-разработка",
@@ -81,8 +81,8 @@
       "web-site":"https://skillbox.ru/course/profession-python/",
       "programming": true
     }
-  ],
-  "design": [
+  ]},
+ { "design": [
     {
       "id": 1,
       "title": "Профессия графический дизайнер",
@@ -163,8 +163,8 @@
       "web-site":"https://skillbox.ru/course/graphic-design/",
       "design": true
     }
-  ],
-  "data":[
+  ]},
+  {"data":[
     {
       "id": 1,
       "title": "Профессия Data analysis",
@@ -245,8 +245,8 @@
       "web-site":"https://skillbox.ru/course/profession-data-scientist/",
       "data": true
     }
-  ],
-  "marketing specialist":[
+  ]},
+  {"marketing specialist":[
     {
       "id": 1,
       "title": "Профессия Маркетолог",
@@ -327,6 +327,5 @@
       "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
       "marketing specialist": true
     }
-  ]
-}
+  ]}]
 }
