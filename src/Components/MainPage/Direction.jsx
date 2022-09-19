@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import axios from 'axios'
 
 
-const baseURL =" http://localhost:3000/somedata "
+const baseURL ="http://localhost:3000/somedata "
 
 function Direction() {
     const [type, setType] = useState()    
