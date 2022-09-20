@@ -1,3 +1,4 @@
+import { Link,  Outlet } from 'react-router-dom'
 
 
 function Header() {
@@ -5,7 +6,7 @@ function Header() {
         <div className='flex'>   
             <div className="container flex justify-between p-5 my-auto border-r-2 border-b-2 font-bold">
                 <h1 className='font-medium text-2xl top-2 '>Logo</h1>
-                <p className="text-base">Курсы</p>
+                <Link to="/Courses" className="text-base">Курсы</Link>
                 <p className="text-base">Школы</p>
                 <p className="text-base">Отзывы о школах</p>
                 <p className="text-base">Акции школ</p>
@@ -23,6 +24,8 @@ function Header() {
                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
                 </svg>
             </div>
+      
+      <Outlet />
             </div>
     )
 }

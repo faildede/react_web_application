@@ -47,15 +47,20 @@ export default function Foooter(){
                 </div> 
             </div> 
  
+            <br />
  
- 
-            <div className="border-b-solid border-white"> 
-                    <div> 
-                    <h1 className='font-medium text-2xl top-2 '>Logo</h1> 
-                    <p>© 2021. Logo. Все права защищены</p> 
+            <div className="border-solid container mx-auto flex justify-between text-white border-white"> 
+                    <div className="flex justify-between"> 
+                    <h1 className='font-medium text-2xl '>Logo</h1> 
+                    <p className="font-medium py-2 px-4">© 2021. Logo. Все права защищены</p> 
                     </div> 
                     <div> 
-                         
+                         <div>
+
+                         </div>
+                         <p>
+                         Пользовательское соглашение
+                         </p>
                     </div> 
             </div> 
         </div> 

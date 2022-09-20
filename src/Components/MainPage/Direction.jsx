@@ -18,8 +18,10 @@ function Direction() {
  }, [type])
  
     return(
-        <div className='bg-[#F8F8F8]'>
-            <div className='mt-8 p-4 container'>
+        <div className=''>
+
+         <div >
+         <div className='mt-8 p-4 container'>
                 <h1 className='font-black text-3xl'>Популярные онлайн-курсы</h1>
                 <div className='flex justify-between mt-8 mx-12'>
              <div>
@@ -44,6 +46,7 @@ function Direction() {
            
                 </div>
             </div>
+         </div>
         </div>
     )
  

@@ -1,7 +1,8 @@
 import Header from './Header'
 import ImgBody from './ImgBody'
+import Carusel from './Carusel'
 import Direction from './Direction'
-import Blog from './Blog'
+// import Blog from './Blog'
 import Footer from './Footer'
 
 function MainPage() {
@@ -9,8 +10,9 @@ function MainPage() {
         <div>
             <Header />
             <ImgBody />
+            <Carusel />
             <Direction />
-            <Blog />
+            {/* <Blog /> */}
             <Footer />
         </div>
     )   
