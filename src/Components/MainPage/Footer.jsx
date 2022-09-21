@@ -1,7 +1,7 @@
 export default function Foooter(){ 
     return( 
         <div className="bg-black w-full">  
-            <div className="container  flex justify-center justify-between text-white p-6"> 
+            <div className="container mx-auto flex justify-center justify-between text-white p-6"> 
                  
                 <div> 
                 <ul className="text-left"> 

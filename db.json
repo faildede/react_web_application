@@ -1,6 +1,5 @@
 {
-"somedata":[
-{  "programing": [
+ "programing": [
     {
       "id": 1,
       "title": "Pyhton-разработка",
@@ -80,12 +79,11 @@
       }],
       "web-site":"https://skillbox.ru/course/profession-python/",
       "programming": true
-    }
-  ]},
- { "design": [
+    }],
+ "design": [
     {
       "id": 1,
-      "title": "Профессия графический дизайнер",
+      "title": "графический дизайнер",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -101,7 +99,7 @@
     },
     {
       "id": 2,
-      "title": "Профессия графический дизайнер",
+      "title": "графический дизайнер",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -117,7 +115,7 @@
     },
     {
       "id": 3,
-      "title": "Профессия графический дизайнер",
+      "title": "графический дизайнер",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -133,7 +131,7 @@
     },
     {
       "id": 4,
-      "title": "Профессия графический дизайнер",
+      "title": "графический дизайнер",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -149,7 +147,7 @@
     },
     {
       "id": 5,
-      "title": "Профессия графический дизайнер",
+      "title": "графический дизайнер",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -162,12 +160,11 @@
       }],
       "web-site":"https://skillbox.ru/course/graphic-design/",
       "design": true
-    }
-  ]},
-  {"data":[
+    }],
+  "data":[
     {
       "id": 1,
-      "title": "Профессия Data analysis",
+      "title": "Data analysis",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -183,7 +180,7 @@
     },
     {
       "id": 2,
-      "title": "Профессия Data analysis",
+      "title": "Data analysis",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -199,7 +196,7 @@
     },
     {
       "id": 3,
-      "title": "Профессия Data analysis",
+      "title": "Data analysis",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -215,7 +212,7 @@
     },
     {
       "id": 4,
-      "title": "Профессия Data analysis",
+      "title": "Data analysis",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -231,7 +228,7 @@
     },
     {
       "id": 5,
-      "title": "Профессия Data analysis",
+      "title": "Data analysis",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -244,12 +241,11 @@
       }],
       "web-site":"https://skillbox.ru/course/profession-data-scientist/",
       "data": true
-    }
-  ]},
-  {"marketing specialist":[
+    }],
+  "marketingSpecialist":[
     {
       "id": 1,
-      "title": "Профессия Маркетолог",
+      "title": "Маркетолог",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -265,7 +261,7 @@
     },
     {
       "id": 2,
-      "title": "Профессия Маркетолог",
+      "title": "Маркетолог",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -281,7 +277,7 @@
     },
     {
       "id": 3,
-      "title": "Профессия Маркетолог",
+      "title": "Маркетолог",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -297,7 +293,7 @@
     },
     {
       "id": 4,
-      "title": "Профессия Маркетолог",
+      "title": "Маркетолог",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -313,7 +309,7 @@
     },
     {
       "id": 5,
-      "title": "Профессия Маркетолог",
+      "title": "Маркетолог",
       "author": "Skillbox",
       "stars": 4.5,
       "cost":"68 990 тг",
@@ -327,5 +323,5 @@
       "web-site":"https://skillbox.ru/course/profession-marketolog-analitik/",
       "marketing specialist": true
     }
-  ]}]
+  ]
 }

@@ -5,10 +5,10 @@ function Header() {
     return(        
         <div className='flex'>   
             <div className="container flex justify-between p-5 my-auto border-r-2 border-b-2 font-bold">
-                <h1 className='font-medium text-2xl top-2 '>Logo</h1>
+                <Link to="/" className='font-medium text-2xl top-2 '>Logo</Link>
                 <Link to="/Courses" className="text-base">Курсы</Link>
                 <p className="text-base">Школы</p>
-                <p className="text-base">Отзывы о школах</p>
+                <Link to="/aboutCourses/${user.id}" className="text-base">Отзывы о школах</Link>
                 <p className="text-base">Акции школ</p>
                 <p className="text-base">Блог</p>
             </div>
